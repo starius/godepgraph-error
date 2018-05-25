@@ -1,0 +1,1 @@
+The repo was created to demonstrate error in godepgraph, failure to locate some vendored packages.
